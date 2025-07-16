@@ -14,9 +14,14 @@ nav{
     align-items: center;
     padding: 0 16px;
 }
+a {
+    color: black;
+    font-size: 24px;
+    font-weight: 700px;
+}
 
 .logo{
-    width: 300px;
+    width: 60px;
 }
 
     
