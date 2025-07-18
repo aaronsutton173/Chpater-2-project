@@ -13,6 +13,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 0 16px;
+    background-color: white;
 }
 a {
     color: black;
