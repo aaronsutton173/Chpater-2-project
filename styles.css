@@ -7,6 +7,7 @@
     font-family: "roboto" , serif;
 }
 
+/* NAVIGATION BAR */
 nav{
     height: 70px;
     display: flex;
@@ -16,13 +17,11 @@ nav{
     background-color: white;
 }
 
-header{
-
-}
 a {
     color: black;
     font-size: 24px;
     font-weight: 700px;
+    text-decoration: none;
 }
 
 .logo{
