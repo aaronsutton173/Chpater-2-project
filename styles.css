@@ -6,14 +6,20 @@
     box-sizing: border-box;
     font-family: "roboto" , serif;
 }
-
+p{
+    display: flex;
+}
 /* NAVIGATION BAR */
 nav{
+    height: 100px;
+    width: 100%;
+    max-width: 1300px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 16px;
     background-color: white;
+    margin: 0 auto;
 }
 
 header{
@@ -72,3 +78,5 @@ a {
     .logo-strip{
         display: flex;
     }
+
+}
