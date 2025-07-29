@@ -78,4 +78,6 @@ a {
     .logo-strip{
         display: flex;
     }
-
+.nav{
+    display: flex;
+}
