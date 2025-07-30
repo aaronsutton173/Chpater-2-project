@@ -11,9 +11,8 @@ p{
 }
 /* NAVIGATION BAR */
 nav{
-    height: 100px;
     width: 100%;
-    max-width: 1300px;
+    max-width: 1200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,6 +77,6 @@ a {
     .logo-strip{
         display: flex;
     }
-.nav{
+.box{
     display: flex;
 }
