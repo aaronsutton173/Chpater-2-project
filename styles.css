@@ -19,10 +19,6 @@ nav{
     margin: 0 auto;
 }
 
-.logo{
-    width: 1200px;
-}
-
 header{
     background-color: white;
     height: calc(100vh - 70px);
