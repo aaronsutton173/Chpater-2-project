@@ -9,10 +9,8 @@
 p{
     display: flex;
 }
-/* NAVIGATION BAR */
+
 nav{
-    width: 100%;
-    max-width: 1200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -21,13 +19,17 @@ nav{
     margin: 0 auto;
 }
 
+.logo{
+    width: 1200px;
+}
+
 header{
     background-color: white;
     height: calc(100vh - 70px);
     padding: 24px;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
 }
 
 h1{
@@ -54,9 +56,7 @@ a {
     text-decoration: none;
 }
 
-.logo{
-    width: 70px;
-}
+
 
     ul {
         display: flex;
@@ -67,11 +67,10 @@ a {
       padding-left: 16px;
     }
 
-    .row{
-        width:100%;
+    .row {
+        width: 100%;
         max-width: 1200px;
         margin: 0 auto;
-
     }
 
 
