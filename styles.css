@@ -67,7 +67,11 @@ a {
         margin: 0 auto;
     }
 
-    .header {
+    .header{
         display: flex;
+        align-items: center;
     }
 
+    .p {
+        display: flex;
+    }
