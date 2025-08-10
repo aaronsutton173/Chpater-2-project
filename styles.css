@@ -111,7 +111,7 @@ li{
     text-align: center;
     justify-content: center;
 }
-.service{
+.serviceh2{
     text-align: center;
 }
 .purple{
@@ -136,11 +136,20 @@ li{
     justify-content:center
 }
 
+.service{
+    display: flex;
+    width: calc(100%/3);
+}
+
 .services{
     display: flex;
     flex-wrap: wrap;
 }
 
+.service__description{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
