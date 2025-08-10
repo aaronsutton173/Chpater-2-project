@@ -42,7 +42,7 @@ h1{
 }
 
 button{
-    background-color: blue;
+    background-color:blue;
     color: white;
     border: none;
     padding: 8px 16px;
@@ -68,7 +68,9 @@ li{
     list-style: none;
     padding-left: 24px;
 }
-
+.blue{
+    color: blue;
+}
 .row{
     width: 100%;
     max-width: 1200px;
@@ -104,13 +106,21 @@ li{
     position: absolute;
     right: 10px;
 }
-
-.features{
-    display: flex;
+.service{
     align-items: center;
 }
+.purple{
+    color: blueviolet;
+}
+.container{
+    padding: 56px;
+}
 
-
+.featuresrow{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
   
 
    
