@@ -23,7 +23,9 @@ nav{
 .logo{
     width:50px;
 }
-
+.button{
+    background-color: rgba(100, 21, 255,);
+}
 header{
     background-color: white;
     height: calc(100vh - 70px);
@@ -114,6 +116,9 @@ li{
 .serviceh2{
     text-align: center;
 }
+.text{
+    text-align: center;
+}
 .purple{
     color: blueviolet;
 }
@@ -146,7 +151,7 @@ li{
     flex-wrap: wrap;
 }
 
-.service__description{
+.service__row{
     display: flex;
     flex-direction: column;
 }
