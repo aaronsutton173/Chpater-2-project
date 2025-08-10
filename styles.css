@@ -106,8 +106,11 @@ li{
     position: absolute;
     right: 10px;
 }
+.features{
+    text-align: center;
+}
 .service{
-    align-items: center;
+    text-align: center;
 }
 .purple{
     color: blueviolet;
@@ -115,11 +118,13 @@ li{
 .container{
     padding: 56px;
 }
+.subheader{
+    text-align: center;
+}
 
-.featuresrow{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+.para{
+    text-align: center;
+    justify-content: center;
 }
   
 
