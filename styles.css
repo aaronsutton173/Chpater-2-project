@@ -15,7 +15,7 @@ nav{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 112px;
+    padding: 0 512px;
     background-color: white;
     margin: 0 auto;
 }
@@ -38,6 +38,7 @@ h1{
 }
 .subheader{
     font-size: 24px;
+    margin: 16px 0 24px 0;
 }
 
 button{
@@ -67,6 +68,48 @@ li{
     list-style: none;
     padding-left: 24px;
 }
+
+.row{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    float: left 100px;
+
+}
+.wrapper{
+    width:400px;
+    max-width: 100%;
+    position: relative;
+}
+
+.wrapper input{
+    background: rgba(255, 255, 255, 0.3);
+    border: 2px solid rgb(78, 77, 77);
+    border-radius: 50px;
+    padding: 1rem 2rem;
+    width:100%;
+}
+
+.wrapper button{
+    background-color: blue;
+    border-radius: 50%;
+    height: 100%;
+    aspect-ratio: 1;
+
+    position: absolute;
+    right: 10px;
+}
+
+.features{
+    display: flex;
+    align-items: center;
+}
+
 
   
 
