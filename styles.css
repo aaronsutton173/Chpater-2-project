@@ -128,6 +128,14 @@ li{
     text-align: center;
     justify-content: center;
 }
-  
+
+.featuresrow{
+    display: flex;
+    align-items: center;
+    justify-content:center
+}
+
+
+
 
    
