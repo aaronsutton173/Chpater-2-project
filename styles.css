@@ -124,15 +124,21 @@ li{
     text-align: center;
 }
 
-.para{
+.container{
     text-align: center;
     justify-content: center;
+    display: flex;
 }
 
 .featuresrow{
     display: flex;
     align-items: center;
     justify-content:center
+}
+
+.services{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
