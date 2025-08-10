@@ -108,6 +108,7 @@ li{
 }
 .features{
     text-align: center;
+    justify-content: center;
 }
 .service{
     text-align: center;
