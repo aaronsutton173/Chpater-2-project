@@ -112,6 +112,7 @@ li{
 .features{
     text-align: center;
     justify-content: center;
+    display: flex;
 }
 .serviceh2{
     text-align: center;
