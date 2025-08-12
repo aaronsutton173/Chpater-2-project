@@ -110,9 +110,9 @@ li{
     right: 10px;
 }
 .features{
-    text-align: center;
-    justify-content: center;
     display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
 }
 .serviceh2{
     text-align: center;
@@ -136,26 +136,13 @@ li{
     display: flex;
 }
 
-.featuresrow{
-    display: flex;
-    align-items: center;
-    justify-content:center
-}
 
-.service{
-    display: flex;
-    width: calc(100%/3);
-}
 
-.services{
-    display: flex;
-    flex-wrap: wrap;
-}
 
-.service__row{
-    display: flex;
-    flex-direction: column;
-}
+
+
+
+
 
 
 
