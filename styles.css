@@ -109,11 +109,7 @@ li{
     position: absolute;
     right: 10px;
 }
-.features{
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 40px;
-}
+
 .h2class{
     text-align: center;
 }
@@ -134,6 +130,11 @@ li{
     text-align: center;
     justify-content: center;
     display: flex;
+}
+
+.services{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
