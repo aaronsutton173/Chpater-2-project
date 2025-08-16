@@ -128,8 +128,6 @@ li{
     text-align: center;
 }
 
-
-
 .features__container{
     padding: 80px 0;
     display: flex;
@@ -140,7 +138,17 @@ li{
     width: calc(100%/3);
 }
 
+.quality__container{
+   display: flex; 
+}
 
+.quality__img--wrapper{
+    display: flex;
+}
+
+.qualityimg{
+    width: 600px;
+}
 
 
 
