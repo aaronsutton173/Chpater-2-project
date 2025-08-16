@@ -123,7 +123,9 @@ li{
 .subheader{
     text-align: center;
 }
-
+.gray{
+    color: darkgrey;
+}
 .lorem{
     text-align: center;
 }
