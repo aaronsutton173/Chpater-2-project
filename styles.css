@@ -133,6 +133,10 @@ li{
 .features__container{
     padding: 80px 0;
     display: flex;
+    flex-wrap: wrap;
+}
+
+.features__container div{
     width: calc(100%/3);
 }
 
