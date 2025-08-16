@@ -119,17 +119,13 @@ li{
 .purple{
     color: blueviolet;
 }
-.container{
-    padding: 56px;
-}
+
 .subheader{
     text-align: center;
 }
 
-.container{
+.lorem{
     text-align: center;
-    justify-content: center;
-    display: flex;
 }
 
 .services{
@@ -137,9 +133,15 @@ li{
     flex-wrap: wrap;
 }
 
-.service{
-    display: flex;
+.container{
+    padding: 80px 0;
 }
+
+.service__description{
+    display: flex;
+    flex-direction: column;
+}
+
 
 
 
