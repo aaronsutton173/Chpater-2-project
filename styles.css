@@ -128,19 +128,15 @@ li{
     text-align: center;
 }
 
-.services{
-    display: flex;
-    flex-wrap: wrap;
-}
 
-.container{
+
+.features__container{
     padding: 80px 0;
+    display: flex;
+    width: calc(100%/3);
 }
 
-.service__description{
-    display: flex;
-    flex-direction: column;
-}
+
 
 
 
