@@ -142,6 +142,8 @@ li{
 
 .quality__container{
    display: flex; 
+   justify-content: center;
+   align-items: center;
 }
 
 .quality__img--wrapper{
