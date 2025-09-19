@@ -153,6 +153,9 @@ li{
 .qualityimg{
     width: 600px;
 }
+.footer__columns{
+    display: flex;
+}
 
 .valuesimg{
     width: 640px;
