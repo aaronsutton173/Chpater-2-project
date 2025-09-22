@@ -146,6 +146,11 @@ li{
    align-items: center;
 }
 
+.testimonials__image{
+    width:640px;
+    height: 640px;
+}
+
 .quality__img--wrapper{
     display: flex;
 }
