@@ -42,7 +42,15 @@ h1{
     font-size: 24px;
     margin: 16px 0 24px 0;
 }
-
+.get--startedbtn{
+    background-color:blue;
+    color: white;
+    border: none;
+    padding: 16px 36px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 25px;
+}
 button{
     background-color:blue;
     color: white;
