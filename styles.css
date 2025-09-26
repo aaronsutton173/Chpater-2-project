@@ -194,8 +194,12 @@ li{
     display: flex;
 }
 
-
-
+.chart-row-item{
+    display: flex;
+}
+.chart-row-item1{
+    display: flex;
+}
 
 
 
