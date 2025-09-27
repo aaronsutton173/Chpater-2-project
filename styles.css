@@ -178,28 +178,11 @@ li{
     width: 640px;
 }
 
-.footer__column{
-    display: flex;
-}
-.footer__bottom{
-    display: flex;
-}
-.footer__logo{
-    display: flex;
-}
-.footer__socials{
-    display: flex;
-}
-.footer__social--link{
-    display: flex;
+.start__buttons{
+    align-items: center;
+   
 }
 
-.chart-row-item{
-    display: flex;
-}
-.chart-row-item1{
-    display: flex;
-}
 
 
 
