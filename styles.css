@@ -177,9 +177,11 @@ li{
 .valuesimg{
     width: 640px;
 }
-
+.start__container{
+    display: flex;
+}
 .start__buttons{
-    align-items: center;
+    display:flex;
    
 }
 
