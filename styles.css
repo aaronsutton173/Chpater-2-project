@@ -19,13 +19,10 @@ nav{
     background-color: white;
     margin: 0 auto;
 }
-
 .logo{
     width:50px;
 }
-.button{
-    background-color: rgba(100, 21, 255,);
-}
+
 header{
     background-color: white;
     height: calc(100vh - 70px);
@@ -34,7 +31,10 @@ header{
     justify-content: center;
     align-items: center;
 }
-
+.get--startedbtn{
+    display:flex;
+    justify-content: flex-end;
+}
 h1{
     font-size: 32px;
 }
@@ -42,23 +42,9 @@ h1{
     font-size: 24px;
     margin: 16px 0 24px 0;
 }
-.get--startedbtn{
-    background-color:blue;
-    color: white;
-    border: none;
-    padding: 16px 36px;
-    font-size: 12px;
-    cursor: pointer;
-    border-radius: 25px;
-}
+
 button{
-    background-color:blue;
-    color: white;
-    border: none;
-    padding: 8px 16px;
-    font-size: 12px;
-    cursor: pointer;
-    border-radius: 25px;
+    color:blue;
 }
 
 .design{
@@ -77,7 +63,7 @@ a {
 
 li{
     list-style: none;
-    padding-left: 24px;
+    padding: 24px;
 }
 .blue{
     color: blue;
@@ -114,7 +100,6 @@ li{
     border-radius: 50%;
     height: 100%;
     aspect-ratio: 1;
-
     position: absolute;
     right: 10px;
 }
@@ -154,10 +139,7 @@ li{
    justify-content: center;
    align-items: center;
 }
-.start__buttons{
-    display: flex;
-    justify-content: flex-end;
-}
+
 .testimonials__image{
     width:640px;
     height: 640px;
@@ -170,38 +152,21 @@ li{
 .qualityimg{
     width: 600px;
 }
-.footer__columns{
-    display: flex;
-}
+
 
 .valuesimg{
     width: 640px;
 }
-.start__container{
-    display: flex;
-}
-.start__row{
-    display:flex;
-}
+
+
 .start__buttons{
     display:flex;
     justify-content: flex-end;
 }
 
-.plans{
-    display: flex;
-    position: relative;
-    flex-direction: row;
-    width: 100%;
-    justify-content: space-between;
-}
-*{
-    margin: 0;
-    padding:0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-    color:#243e63;
-}
+
+
+
 
 
 
