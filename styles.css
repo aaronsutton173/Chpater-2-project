@@ -45,6 +45,8 @@ h1{
 
 button{
     color:blue;
+    position: relative;
+    down: 32px;
 }
 
 .design{
