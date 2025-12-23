@@ -164,6 +164,7 @@ li{
 .start__buttons{
     display:flex;
     justify-content: flex-end;
+    flex-direction: column;
 }
 
 
