@@ -176,7 +176,7 @@ li{
 }
 
 .grid-container{
-    
+    display: flex;
 }
 
 
