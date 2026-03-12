@@ -134,6 +134,7 @@ li{
 
 .features__container div{
     width: calc(100%/3);
+    align-items: center;
 }
 
 .quality__container{
