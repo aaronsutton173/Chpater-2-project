@@ -184,6 +184,10 @@ li{
 display: flex;
 }
 
+.row1{
+    position: absolute;
+}
+
 
 
 
